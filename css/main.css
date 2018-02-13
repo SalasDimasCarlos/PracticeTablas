@@ -5,6 +5,17 @@ table {
   border-spacing: 5px;
 }
 
+table caption {
+  letter-spacing: 1px;
+  font-weight: bold;
+  text-transform: uppercase;
+}
+thead tr th {
+  letter-spacing: 1px;
+  text-transform: uppercase;
+}
+
+
 td,
 th{
   /*border: 1px solid black;*/
@@ -42,6 +53,9 @@ th {
 }
 
 /* ----------------- Styles --------------- */
+p {
+  font-weight: bold;
+}
 
 td span {
   display: block;
@@ -51,7 +65,7 @@ td span {
   font-style: italic;
 }
 
-.eventail {
+.eventstyle {
   font-size: .8em;
   font-style:
 }
