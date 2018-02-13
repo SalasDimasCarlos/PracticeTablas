@@ -1,3 +1,5 @@
+/* ------------------- Generals -------------------*/
+
 table {
   /*border-collapse: collapse;*/
   border-spacing: 5px;
@@ -28,7 +30,7 @@ th {
 }
 
 .tutorial {
-  caret-color: #91CEFF
+  background-color: #91CEFF
 }
 
 .informal {
