@@ -1,0 +1,55 @@
+table {
+  /*border-collapse: collapse;*/
+  border-spacing: 5px;
+}
+
+td,
+th{
+  /*border: 1px solid black;*/
+  border-radius: 5px;
+  text-align: center;
+}
+/* ------------- background Colors ---------------- */
+
+th {
+  background-color: #BACDCF;
+}
+
+.magistral {
+  background-color: #BFBFBF;
+}
+
+.conf {
+  background-color: #E5E6FF;
+}
+
+.taller {
+  background-color: #9699FE
+}
+
+.tutorial {
+  caret-color: #91CEFF
+}
+
+.informal {
+  background-color: #CACEFF;
+}
+
+.general {
+  background-color: #9798CA;
+}
+
+/* ----------------- Styles --------------- */
+
+td span {
+  display: block;
+}
+
+.ponente {
+  font-style: italic;
+}
+
+.eventail {
+  font-size: .8em;
+  font-style:
+}
